@@ -6,3 +6,5 @@ Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. 
 **.** Formül
 
 _Kilo (kg) / Boy(m) * Boy(m)_
+
+[patika.dev linkim](https://app.patika.dev/betulozgen)
